@@ -20,6 +20,7 @@ public class JSonReaderTest
 	        
 	        System.out.println( "Coolness: " + coolness );
 	        System.out.println( "Altitude: " + altitude );
+	        System.out.println( "Pilot: " + firstName );
 	        System.out.println( "Pilot: " + lastName );
 	    }
 	
